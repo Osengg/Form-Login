@@ -1,27 +1,67 @@
-👋 Hi, I’m @Sngklem  
-🌟 Aspiring Software Engineer with a passion for coding and problem-solving!  
+# Form Login
 
-👀 Interests:  
-- Web Development 🌐  
-- Artificial Intelligence 🤖  
-- Open-Source Projects 🚀  
-- Exploring new technologies 🛠️  
+Hey there, coder! Welcome to **Form Login** – a sleek, minimalistic login form project that’s here to level up your front-end game. Get ready to dive into a world where clean design meets smooth functionality!  
 
-🌱 Currently Learning:  
-- Advanced JavaScript and TypeScript  
-- PHP and Python  
-- Building scalable backend systems with Node.js  
-- Machine Learning fundamentals   
+## Live Demo  
 
-📫 How to Reach Me:  
-- Email: [faruq110803@gmail.com](mailto:faruq110803@gmail.com)  
-- YouTube: [@Sngklem](https://www.youtube.com/@Sngklem)  
+Experience the magic in action! Check out the live demo _[here](https://osengg.github.io/Form-Login)_
 
-😄 Nickname:  
-Oseng/Ruk
+## About This Project  
 
-⚡ Fun Fact:  
-I can code for hours as long as there’s a plate of fried rice 🍳, a hot cup of coffee ☕, and a cigarette 🚬 to spark my creativity.  
+**Form Login** is a simple yet powerful login form built with **HTML**, **CSS**, and **JavaScript**. It’s designed for:  
 
----  
-✨ This repository is special because it reflects my journey in tech. Feel free to explore, fork, or star it if you find something inspiring!  
+- 🎯 **Clarity & Minimalism:** Enjoy a clutter-free, intuitive interface.  
+- 📱 **Responsiveness:** Looks amazing on both desktop and mobile.  
+- 🛠️ **Learning & Experimentation:** A perfect starting point to learn form handling and validation.  
+
+## Project Overview  
+
+```bash
+| Component      | Description                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| HTML Structure | Provides a semantic layout for the login form, ensuring accessibility.      |
+| CSS Styling    | Applies modern design techniques for a clean, responsive interface.         |
+| JavaScript     | Manages client-side interactivity like form validation.                     |
+| Live Demo      | Showcases the project via GitHub Pages for quick testing.                   |
+```
+
+## Getting Started  
+
+### Installation  
+
+- Clone the repository
+
+  ```bash
+  git clone https://github.com/Osengg/Form-Login.git
+  ```
+
+- Navigate to the project folder
+
+  ```bash
+  cd Form-Login
+  ```
+
+- Open `index.html` in your browser
+
+## Built With
+
+```bash
+| Technology  | Purpose                                  |
+|-------------|------------------------------------------|
+| HTML        | For a solid, semantic structure.         |
+| CSS         | To keep it stylish and responsive.       |
+| JavaScript  | For interactive, dynamic behavior.       |
+```
+
+## Author
+
+GitHUb [Osengg](https://github.com/Osengg)
+
+## Create Date
+
+Upload date: Dec 28, 2024
+
+## Acknowledgments
+
+- Huge thanks to the YouTube tutorials that sparked the inspiration for this project.
+- Shoutout to the awesome coding community for all the support and creative vibes.
